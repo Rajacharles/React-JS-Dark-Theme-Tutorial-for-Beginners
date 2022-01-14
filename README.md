@@ -68,3 +68,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+![React-JS-Dark-Theme-Tutorial-for-Beginners---Responsive-Transition-Animations](https://user-images.githubusercontent.com/82109268/149539162-3cdb938e-8f37-4809-a17a-9389f38b3e62.jpg)
+
